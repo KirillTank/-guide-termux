@@ -1,2 +1,0 @@
-# -guide-termux
-Guide termux
